@@ -1,0 +1,6 @@
+certifi==2024.2.2
+humanfriendly==10.0
+pandas==2.2.2
+pycurl==7.45.3
+python-dotenv==1.0.1
+schedule==1.2.1

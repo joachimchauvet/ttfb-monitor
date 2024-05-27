@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+.env
+.idea
+.ruff_cache
+env
+venv
+*.conf
+*.csv
+*_env
+*.log
